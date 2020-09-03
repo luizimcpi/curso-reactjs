@@ -10,3 +10,8 @@ command: npx create-react-app nomeDoProjeto
 cd nomeDoProjeto 
 command: npm start
 ```
+
+## Icons
+```
+https://material.io/resources/icons/?style=baseline
+```
